@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UD1PR001K</string>
+    <string name="mail">Correo electrónico</string>
+    <string name="pass">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="signin">Registrarse</string>
+    <string name="sesion">También puedes iniciar sesión con:</string>
+    <string name="registro">Si no tienes una cuenta todavía:</string>
+    <string name="nombre">Green Basket EcoMarket</string>
+    <string name="recontrasena">Recuperar contraseña</string>
+</resources>

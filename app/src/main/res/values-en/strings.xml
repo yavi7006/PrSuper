@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UD1PR001K</string>
+    <string name="mail">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Log in</string>
+    <string name="signin">Sign in</string>
+    <string name="sesion">You can also log in with:</string>
+    <string name="registro">If you don\'t have an account yet:</string>
+    <string name="nombre">Green Basket EcoMarket</string>
+    <string name="recontrasena">Forgot password</string>
+</resources>
